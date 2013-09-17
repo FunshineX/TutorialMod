@@ -1,0 +1,18 @@
+[
+{
+ "modid" : "StevesExample",
+ "name" : "Steve's Example",
+ "version" : "0.1",
+ "credits" : "Credits to everyone",
+ "authors" : [
+   "FunshineX"
+ ],
+ "description" : "",
+ "url" : "",
+ "updateUrl" : "",
+ "logoFile" : "",
+ "parent" : "",
+ "screenshots" : "" [
+ ]
+}
+]
