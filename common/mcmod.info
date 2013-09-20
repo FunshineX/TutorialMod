@@ -1,0 +1,18 @@
+[
+{
+ "modid" : "StevesExample",
+ "name" : "Steve's Example",
+ "version" : "0.1",
+ "credits" : "vswe",
+ "authors" : [
+   "FunshineX"
+ ],
+ "description" : "Created while viewing VSWE's modding tutorials",
+ "url" : "",
+ "updateUrl" : "",
+ "logoFile" : "",
+ "parent" : "",
+ "screenshots" : [ ""
+ ]
+}
+]
